@@ -45,14 +45,14 @@
     </div>
     <div class="Group_featured_model">
         <div  id="block-brand">
-            <img src="../pngwing.com (1).png" alt="" class="logo-brand" id="mazada">
-            <img src="../pngwing.com (2).png" alt="" class="logo-brand" id="toyota">
-            <img src="../pngwing.com (4).png" alt="" class="logo-brand" id="honda">
-            <img src="../pngwing.com (3).png" alt="" class="logo-brand" id="nissan">
-            <img src="../pngwing.com (5).png" alt="" class="logo-brand" id="mitsubish">
-            <img src="../pngwing.com (6).png" alt="" class="logo-brand" id="subaru">
-            <img src="../pngwing.com (7).png" alt="" class="logo-brand" id="gtr-nissan">
-            <img src="../pngwing.com (8).png" alt="" class="logo-brand" id="supra">
+            <img src="../pngwing1.png" alt="" class="logo-brand" id="mazada">
+            <img src="../pngwing2.png" alt="" class="logo-brand" id="toyota">
+            <img src="../pngwing4.png" alt="" class="logo-brand" id="honda">
+            <img src="../pngwing3.png" alt="" class="logo-brand" id="nissan">
+            <img src="../pngwing5.png" alt="" class="logo-brand" id="mitsubish">
+            <img src="../pngwing6.png" alt="" class="logo-brand" id="subaru">
+            <img src="../pngwing7.png" alt="" class="logo-brand" id="gtr-nissan">
+            <img src="../pngwing8.png" alt="" class="logo-brand" id="supra">
             <img src="" alt="" class="logo-brand">
         </div>
     </div>
@@ -75,7 +75,7 @@
           <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
             <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
             <img src="../pngegg.png" alt="" style="width: 300px;">
-            <img src="../pngwing.com (1).png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
+            <img src="../pngwing1.png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
           </div>
           <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
             <div><p>toyota supra 4k</p></div>
@@ -89,7 +89,7 @@
             <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
               <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
               <img src="../pngegg (2).png" alt="" style="width: 300px;">
-              <img src="../pngwing.com (3).png" alt="" style="width:40px; margin-right: 20px;margin-top: 10px;">
+              <img src="../pngwing3.png" alt="" style="width:40px; margin-right: 20px;margin-top: 10px;">
             </div>
             <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
               <div><p>toyota supra 4k</p></div>
@@ -103,7 +103,7 @@
           <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
             <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
             <img src="../pngegg (1).png" alt="" style="width: 300px;">
-            <img src="../pngwing.com (4).png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
+            <img src="../pngwing4.png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
           </div>
           <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
             <div><p>toyota supra 4k</p></div>
@@ -116,8 +116,8 @@
       <div class="sub-container" style="background: linear-gradient(0.25turn, #a59f9f, #afab35, #EFE600);">
         <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
           <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
-          <img src="../pngwing.com (12).png" alt="" style="width: 300px;">
-          <img src="../pngwing.com (5).png" alt="" style="width:40px; margin-right: 10px;margin-top: 10px;">
+          <img src="../pngwing12.png" alt="" style="width: 300px;">
+          <img src="../pngwing5.png" alt="" style="width:40px; margin-right: 10px;margin-top: 10px;">
         </div>
         <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
           <div><p>toyota supra 4k</p></div>
@@ -131,7 +131,7 @@
       <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
         <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
         <img src="../Daco_5523517.png" alt="" style="width: 300px; margin-top: 20px ;">
-        <img src="../pngwing.com (4).png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
+        <img src="../pngwing4.png" alt="" style="width:60px; margin-right: 10px;margin-top: 0px;">
       </div>
       <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
         <div><p>toyota supra 4k</p></div>
@@ -145,7 +145,7 @@
       <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
         <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
         <img src="../imgbin_1998-subaru-impreza-bumper-car-subaru-wrx-png.png" alt="" style="width: 300px;">
-        <img src="../pngwing.com (6).png" alt="" style="width:50px; margin-right:20px;margin-top: 10px;">
+        <img src="../pngwing6.png" alt="" style="width:50px; margin-right:20px;margin-top: 10px;">
       </div>
       <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
         <div><p>toyota supra 4k</p></div>
@@ -158,8 +158,8 @@
     <div class="sub-container" style="background: linear-gradient(0.25turn, #a59f9f, #59646d, #3C556D);">
       <div style="display: grid;  grid-template-columns: 1fr 1fr 1fr; height:70%;">
         <img src="../—Pngtree—japan flag_8619059.png" alt="" style="width: 30px; height:30px ;margin-left: 10px;margin-top: 10px;">
-        <img src="../pngwing.com (13).png" alt="" style="width: 300px;">
-        <img src="../pngwing.com (2).png" alt="" style="width:50px; margin-right: 10px;margin-top: 10px;">
+        <img src="../pngwing13.png" alt="" style="width: 300px;">
+        <img src="../pngwing2.png" alt="" style="width:50px; margin-right: 10px;margin-top: 10px;">
       </div>
       <div style="display: flex;  justify-content: space-between;margin-top: 10px;">
         <div><p>toyota supra 4k</p></div>
@@ -184,8 +184,8 @@ export default{
         theme: 'light',
         model_cars:[
           {
-            car_img: {url:"pngwing.com.png"},
-            logo: {url:"pngwing.com (8).png"},
+            car_img: {url:"pngwing.png"},
+            logo: {url:"pngwing8.png"},
             brand: "toyota supra 4k",
             value: "201,000"
           },
