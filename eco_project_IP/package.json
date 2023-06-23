@@ -1,5 +1,5 @@
 {
-  "name": "myproject",
+  "name": "jdm_car",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.20",
     "vue": "^3.3.2",
-    "vue-router": "^4.2.1",
-    "vuex": "^4.0.2"
+    "vue-router": "^4.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
